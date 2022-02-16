@@ -2,14 +2,27 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Problem Set
+optional_text: "**Problems for Lecture 30  \nFrom textbook Section IV.8**\n\n3\\.\
+  \ For a connected graph with \\\\(M\\\\) edges and \\\\(N\\\\) nodes, what requirement\
+  \ on \\\\(M\\\\) and \\\\(N\\\\) comes from each of the words _spanning tree_?\n\
+  \n**From textbook Section IV.2**\n\n1\\. Find \\\\(\\\\boldsymbol{c\\\\ast d}\\\\\
+  ) and \\\\(\\\\boldsymbol{c \\\\circledast d}\\\\) for \\\\(\\\\boldsymbol{c}=(2,1,3)\\\
+  \\) and \\\\(\\\\boldsymbol{d}=(3,1,2)\\\\)."
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Completing a Rank-One Matrix, Circulants!'
 uid: 498c2c93-21ce-4bd8-842e-d9c6f02e8c04
 video_files:
   archive_url: https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture30_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/cd3d1abff4115a7cbff4d9c2fafb6a5a_p-bXJIa7QVI.vtt
+  video_captions_file: /courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/cd3d1abff4115a7cbff4d9c2fafb6a5a_p-bXJIa7QVI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p-bXJIa7QVI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/6c9f30071c8710266271fd85880c0262_p-bXJIa7QVI.pdf
+  video_transcript_file: /courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/6c9f30071c8710266271fd85880c0262_p-bXJIa7QVI.pdf
 video_metadata:
   youtube_id: p-bXJIa7QVI
 ---

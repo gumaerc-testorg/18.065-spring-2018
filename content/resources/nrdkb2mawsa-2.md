@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/26848226b04056a681e84eafb354ade0_nrDkb2MAwSA.vtt
+file: /media/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/26848226b04056a681e84eafb354ade0_nrDkb2MAwSA.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 26848226-b040-56a6-81e8-4eafb354ade0

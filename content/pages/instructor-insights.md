@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 07a3d3ea-a91f-17c3-4182-eb7fdf14e25d
 ---
@@ -30,20 +32,6 @@ Curriculum Information
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A view over several rows of tiered seats toward the chalkboards at the front of a lecture hall.]({{< resource_file 9351956b-909e-7a3c-fff0-432df10ba563 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Classes met in a lecture hall with tiered seating for 134, sliding chalkboards, and A/V equipment.
-    
 
 Assessment
 ----------
