@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 23: Accelerating Gradient Descent (Use Momentum)'
 uid: d701065a-0c65-a65f-846f-2d1b676f9614
 video_files:

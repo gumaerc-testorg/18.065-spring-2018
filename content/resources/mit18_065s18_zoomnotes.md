@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: baf6dc02-8cee-4e02-d25e-831b74c3d5a9
 resourcetype: Document
 title: ZoomNotes for Linear Algebra
 uid: b66b4601-b216-993e-72b8-62fc0243281d

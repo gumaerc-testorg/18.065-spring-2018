@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -18,6 +19,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Eckart-Young: The Closest Rank k Matrix to A '
 uid: 7d689bdb-8da9-848c-569f-85e93ce9b9d4
 video_files:

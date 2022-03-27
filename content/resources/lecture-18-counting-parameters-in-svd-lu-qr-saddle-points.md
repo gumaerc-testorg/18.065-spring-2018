@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -26,6 +27,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points'
 uid: 372ba297-7de9-51f2-5703-5e929fb72095
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Norms of Vectors and Matrices'
 uid: eada4a9c-ece4-0c77-ae4e-54ab2b6f8e6a
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -20,6 +21,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Randomized Matrix Multiplication'
 uid: 2bb8ddfa-c31f-b6de-c6c9-25e041b98efd
 video_files:

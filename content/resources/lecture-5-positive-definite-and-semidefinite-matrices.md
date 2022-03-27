@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -26,6 +27,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Positive Definite and Semidefinite Matrices'
 uid: c7517d37-c7aa-58f6-39ad-f87b01e4e892
 video_files:

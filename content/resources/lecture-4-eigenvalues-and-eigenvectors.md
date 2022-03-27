@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -28,6 +29,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Eigenvalues and Eigenvectors'
 uid: 8540e74d-ad3d-8809-1ed4-aa04d359c63d
 video_files:

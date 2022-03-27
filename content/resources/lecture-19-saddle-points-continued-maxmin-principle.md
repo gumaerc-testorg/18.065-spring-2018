@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -21,6 +22,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Saddle Points Continued, Maxmin Principle'
 uid: 1a9b96a6-8484-56dd-2b38-0557ed66a416
 video_files:

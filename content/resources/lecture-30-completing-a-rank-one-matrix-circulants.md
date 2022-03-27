@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -16,6 +17,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Completing a Rank-One Matrix, Circulants!'
 uid: 498c2c93-21ce-4bd8-842e-d9c6f02e8c04
 video_files:

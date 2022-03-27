@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -25,6 +26,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Four Ways to Solve Least Squares Problems'
 uid: a575de11-17f0-e13b-755d-03aacd93f61b
 video_files:

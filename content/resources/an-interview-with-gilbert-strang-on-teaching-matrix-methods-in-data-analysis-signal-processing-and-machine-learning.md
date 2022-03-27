@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: An Interview with Gilbert Strang on Teaching Matrix Methods in Data Analysis,
   Signal Processing, and Machine Learning
 uid: eb3049b4-868a-fd99-8221-5f1dc9da655b

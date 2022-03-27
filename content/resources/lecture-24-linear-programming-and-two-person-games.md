@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -32,6 +33,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Linear Programming and Two-Person Games'
 uid: aad61155-b6de-ef23-8baf-2022c1b8b5af
 video_files:

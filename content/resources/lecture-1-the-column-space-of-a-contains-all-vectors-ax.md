@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -25,6 +26,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: The Column Space of A Contains All Vectors Ax '
 uid: 716f1f5e-7707-703a-9560-48aae98c3fd5
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Computing Eigenvalues and Singular Values'
 uid: f86188c9-7f54-197c-2e0a-c6b782a4b52d
 video_files:

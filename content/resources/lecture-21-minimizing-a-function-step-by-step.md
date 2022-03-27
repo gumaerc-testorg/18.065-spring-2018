@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Minimizing a Function Step by Step'
 uid: 1f32e87c-b6ab-cb28-fefb-267c9a2d5796
 video_files:

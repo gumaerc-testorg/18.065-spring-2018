@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Gradient Descent: Downhill to a Minimum'
 uid: 4318cf43-b3aa-08b7-9564-f2376a48f586
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -20,6 +21,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Neural Nets and the Learning Function'
 uid: 33f50eb0-834b-b370-3bab-34db3bc9745f
 video_files:

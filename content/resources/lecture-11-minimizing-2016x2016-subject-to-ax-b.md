@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -25,6 +26,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 11: Minimizing \u2016x\u2016 Subject to Ax = b "
 uid: 57520c26-1eb1-b9ca-bc44-60a953a67428
 video_files:

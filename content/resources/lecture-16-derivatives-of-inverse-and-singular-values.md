@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -22,6 +23,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Derivatives of Inverse and Singular Values'
 uid: d1fbe34c-2421-4c50-93b7-9e4e3d36008f
 video_files:

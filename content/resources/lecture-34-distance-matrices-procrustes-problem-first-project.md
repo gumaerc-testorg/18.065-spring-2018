@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -19,6 +20,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 34: Distance Matrices, Procrustes Problem'
 uid: f7538bc9-0858-7cb8-0a7b-3788d90a46d1
 video_files:

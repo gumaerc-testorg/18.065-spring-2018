@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution
   Rule'
 uid: 0197a0ae-0870-f75f-49cb-fbe02e9e65a9

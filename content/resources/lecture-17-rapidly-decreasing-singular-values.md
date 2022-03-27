@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -16,6 +17,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Rapidly Decreasing Singular Values'
 uid: 2e886024-ae52-3bdc-e29d-1126eac0b14d
 video_files:

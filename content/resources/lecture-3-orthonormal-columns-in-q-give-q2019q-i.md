@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -26,6 +27,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 3: Orthonormal Columns in Q Give Q\u2019Q = I "
 uid: 35e13b17-714e-fc16-c248-7c9d6fdb8f0c
 video_files:

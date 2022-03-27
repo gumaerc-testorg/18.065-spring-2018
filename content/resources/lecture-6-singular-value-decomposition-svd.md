@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -21,6 +22,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Singular Value Decomposition (SVD)'
 uid: 3433b303-aa4b-d769-0c8c-1d76a8edfc50
 video_files:

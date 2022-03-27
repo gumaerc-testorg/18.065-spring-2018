@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -24,6 +25,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 15: Matrices A(t) Depending on t, Derivative = dA/dt '
 uid: 3f21d4df-9b2f-4e82-d09f-7d32496dc46d
 video_files:
