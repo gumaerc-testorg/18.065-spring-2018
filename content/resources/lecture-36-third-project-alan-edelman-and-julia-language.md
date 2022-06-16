@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -39,3 +40,6 @@ Speed and simplicity: Computing derivatives and Jacobian matrices
 Related sections in textbook: III.3 and VII.2
 
 **Instructors:** Prof. Alan Edelman and Prof. Gilbert Strang
+
+
+

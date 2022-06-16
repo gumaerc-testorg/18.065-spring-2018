@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 2  \nFrom textbook Section I.2**\n\n2\\. Suppose\
   \ \\\\(\\\\boldsymbol{a}\\\\) and \\\\(\\\\boldsymbol{b}\\\\) are column vectors\
@@ -57,3 +58,6 @@ Five great factorizations:
 Related section in textbook: I.2
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

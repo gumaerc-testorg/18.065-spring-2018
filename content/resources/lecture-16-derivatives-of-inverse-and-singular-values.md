@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 16  \nFrom textbook Sections III.1 - III.2**\n\
   \n3.\n\n1.  Find the eigenvalues \\\\(\\\\lambda\\_1(t)\\\\) and \\\\(\\\\lambda\\\
@@ -51,3 +52,6 @@ Interlacing of eigenvalues / Weyl inequalities
 Related section in textbook: III.1-2
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

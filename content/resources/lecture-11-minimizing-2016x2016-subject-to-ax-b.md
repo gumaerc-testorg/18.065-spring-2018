@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 11  \nFrom textbook Section I.11**\n\n6\\.\
   \ The first page of I.11 shows _unit balls_ for the \\\\(\\\\ell^1\\\\) and \\\\\
@@ -54,3 +55,6 @@ Orthogonal vectors in \\(Q\\) from independent vectors in \\(A\\)
 Related section in textbook: I.11
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

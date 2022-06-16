@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 6  \nFrom textbook Section I.8**\n\n1\\. A\
   \ symmetric matrix \\\\(S=S^{\\\\mathtt{T}}\\\\) has orthonormal eigenvectors \\\
@@ -50,3 +51,6 @@ _A_ = (rotation)(stretching)(rotation) \\(U\\Sigma\\)_V_{{< sup "T" >}} for ever
 Related section in textbook: I.8
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

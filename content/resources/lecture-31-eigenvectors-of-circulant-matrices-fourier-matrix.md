@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 31  \nFrom textbook Section IV.2**\n\n3\\.\
   \ If \\\\(\\\\boldsymbol{c\\\\ast d} = \\\\boldsymbol{e}\\\\), why is \\\\((\\\\\
@@ -48,3 +49,6 @@ Eigenvalues of \\(C =\\) (Fourier matrix)(column zero of \\(C\\))
 Related section in textbook: IV.2
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

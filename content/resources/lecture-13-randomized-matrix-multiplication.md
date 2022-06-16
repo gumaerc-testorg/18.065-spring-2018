@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 13  \nFrom textbook Section II.4**\n\n1\\.\
   \ Given positive numbers \\\\(a\\_1,\\\\ldots,a\\_n\\\\) find positive numbers \\\
@@ -49,3 +50,6 @@ Mean \\(= AB\\) (correct) and variance to be minimized
 Related section in textbook: II.4
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

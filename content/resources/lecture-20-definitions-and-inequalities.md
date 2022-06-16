@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 20  \nFrom textbook Section V.1**\n\n10\\.\
   \ Computer experiment: Find the average \\\\(A\\_{1000000}\\\\) of a million random\
@@ -55,3 +56,6 @@ Chebyshev's inequality Prob\[|\\(x\\) - mean| \\(\\geq\\) \\(a\\)\] \\(\\leq\\) 
 Related sections in textbook: V.1, V.3
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

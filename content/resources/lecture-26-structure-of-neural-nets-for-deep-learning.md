@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 26  \nFrom textbook Section VII.1**\n\n4\\\
   . Explain with words or show with graphs why each of these statements about Continuous\
@@ -56,3 +57,6 @@ Weights optimized to (usually) output that correct class.
 Related section in textbook: VII.1
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

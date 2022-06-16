@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 23  \nFrom textbook Section VI.4**\n\n5\\. Explain\
   \ why projection onto a convex set \\\\(K\\\\) is a _contraction_ in equation (24).\
@@ -45,3 +46,6 @@ Convergence rate improves: 1 - \\(b\\) to 1 - square root of \\(b\\) !
 Related section in textbook: VI.4
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 24  \nFrom textbook Section VI.2**\n\n1\\.\
   \ Minimize \\\\(F(\\\\boldsymbol{x})=\\\\frac{1}{2}\\\\boldsymbol{x}^{\\\\mathtt{T}}\
@@ -62,3 +63,6 @@ Dual linear program is a maximization: Max = Min!
 Related sections in textbook: VI.2–VI.3
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

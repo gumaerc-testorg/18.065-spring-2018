@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 5  \nFrom textbook Section I.7**\n\n3\\. For\
   \ which numbers \\\\(b\\\\) and \\\\(c\\\\) are these matrices positive definite?\n\
@@ -57,3 +58,6 @@ Semidefinite allows zero evalues/energy/pivots/determinants.
 Related section in textbook: I.7
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

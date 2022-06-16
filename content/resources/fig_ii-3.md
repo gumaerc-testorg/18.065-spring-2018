@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/25fc4da3a8de7b3b4def2954481cf268_Fig_II-3.jpg
+file: /courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/25fc4da3a8de7b3b4def2954481cf268_Fig_II-3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

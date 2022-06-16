@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 32  \nFrom textbook Section IV.2**\n\n4\\.\
   \ Any two circulant matrices of the same size commute: \\\\(CD=DC\\\\). They have\
@@ -46,3 +47,6 @@ Convolution Rule: \\(F(c\*d) = Fc\\) times \\(Fd\\) (component by component)
 Related section in textbook: IV.2
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

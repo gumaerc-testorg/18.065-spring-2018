@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 9  \nFrom textbook Section II.2**\n\n2\\. Why\
   \ do \\\\(A\\\\) and \\\\(A\\\\){{< sup \"+\" >}} have the same rank? If \\\\(A\\\
@@ -54,3 +55,6 @@ Summary
 Related section in textbook: II.2
 
 **Instructor:** Prof. Gilbert Strang
+
+
+

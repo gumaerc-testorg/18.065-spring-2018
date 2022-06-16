@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 14  \nFrom textbook Section III.1**\n\n1\\\
   . Another approach to \\\\((I-uv^{\\\\mathtt{T}})^{-1}\\\\) starts with the formula\
@@ -59,3 +60,6 @@ Note: Formula in class is correct in the textbook.
 Related section in textbook: III.1
 
 **Instructor:** Prof. Gilbert Strang
+
+
+
