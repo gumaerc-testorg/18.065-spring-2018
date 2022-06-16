@@ -1,16 +1,18 @@
 ---
 content_type: page
+description: In this section Professor Gilbert Strang describes various aspects of
+  how he taught 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine
+  Learning.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 07a3d3ea-a91f-17c3-4182-eb7fdf14e25d
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 In the following video and Chalk Radio podcast episode, Professor Gilbert Strang describes various aspects of how he taught _18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_.
 
@@ -18,12 +20,11 @@ In the following video and Chalk Radio podcast episode, Professor Gilbert Strang
 
 {{< simplecast 913a4a55-b8e2-407d-b4cb-c26214d80d7f >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/)
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
 
 ### Requirements Satisfied
 
@@ -33,17 +34,17 @@ Curriculum Information
 
 Every spring semester
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The grade for the course is based on homework assignments, labs, and a final project.
 
-Student Information
--------------------
+## Student Information
 
-![54 students took this course when it was taught in Spring 2018.]({{< resource_file 60b048e7-8637-4837-d0cc-7803962a579c >}})
+### Enrollment
+
+54 students
 
 ### Breakdown by Year
 
@@ -55,30 +56,24 @@ Variety of majors
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 3 times per week for 1 hour per session; 39 sessions total.
 
-Out of Class
-------------
+### Out of Class
 
 Students were expected to complete weekly problem sets, labs, and a final project.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Lead Instructor (Professor Strang)
-----------------------------------
+### Lead Instructor (Professor Strang)
 
 Professor Strang prepared and delivered lectures; prepared homework problems.
 
-Teaching Assistants 
---------------------
+### Teaching Assistants 
 
 Three teaching assistants held office hours to help students with homework problems; fielded email questions from students; graded homework problem sets.
