@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 26  \nFrom textbook Section VII.1**\n\n4\\\
@@ -57,6 +58,4 @@ Weights optimized to (usually) output that correct class.
 Related section in textbook: VII.1
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

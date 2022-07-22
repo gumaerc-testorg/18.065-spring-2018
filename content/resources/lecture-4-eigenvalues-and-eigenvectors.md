@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 4**  \n**From textbook Section I.6**\n\n2\\\
@@ -58,6 +59,4 @@ Similar matrix \\(B = M^{-1}AM\\) has the same eigenvalues as \\(A\\)
 Related section in textbook: I.6
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

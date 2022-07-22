@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 18  \nFrom textbook Section III.2**\n\n4\\\
@@ -55,6 +56,4 @@ Find \\((m + n - r)r\\) parameters in a matrix of rank \\(r\\)
 Related section in textbook: III.2
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

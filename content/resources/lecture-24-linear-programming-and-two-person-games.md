@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 24  \nFrom textbook Section VI.2**\n\n1\\.\
@@ -63,6 +64,4 @@ Dual linear program is a maximization: Max = Min!
 Related sections in textbook: VI.2–VI.3
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 21  \nFrom textbook Sections VI.1 and VI.4**\n\
@@ -44,6 +45,4 @@ Newton's method uses higher derivatives (Hessian at higher cost).
 Related sections in textbook: VI.1, VI.4
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

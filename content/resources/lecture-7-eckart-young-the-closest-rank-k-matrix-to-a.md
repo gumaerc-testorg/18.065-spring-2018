@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 7  \nFrom textbook Section I.9**\n\n2\\. Find\
@@ -50,6 +51,4 @@ Related section in textbook: I.9
 **Instructor:** Prof. Gilbert Strang
 
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px Verdana} span.s1 {font-kerning: none} span.s2 {font: 11.0px Verdana; font-kerning: none}
-
-
 

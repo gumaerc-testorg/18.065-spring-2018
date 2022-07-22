@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 19  \nFrom textbook Sections III.2 and V.1**\n\
@@ -51,6 +52,4 @@ Sample variance and \\(k\\){{< sup "th" >}} eigenvalue variance
 Related sections in textbook: III.2 and V.1
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

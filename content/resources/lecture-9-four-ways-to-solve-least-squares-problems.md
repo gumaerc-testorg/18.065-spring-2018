@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 9  \nFrom textbook Section II.2**\n\n2\\. Why\
@@ -55,6 +56,4 @@ Summary
 Related section in textbook: II.2
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

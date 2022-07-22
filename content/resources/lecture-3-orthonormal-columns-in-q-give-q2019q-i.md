@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Sets
 optional_text: "**Problems for Lecture 3  \nFrom textbook Section I.5**\n\n2\\. Draw\
@@ -60,6 +61,4 @@ Examples:
 Related section in textbook: I.5
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

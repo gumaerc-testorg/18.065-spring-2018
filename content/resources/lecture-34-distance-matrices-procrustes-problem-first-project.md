@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 34  \nFrom textbook Sections IV.9 and IV.10**\n\
@@ -49,6 +50,4 @@ Find the orthogonal matrix \\(Q\\) so that \\(Qx\\)'s are closest to \\(y\\)'s.
 Related sections in textbook: IV.9 and IV.10
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

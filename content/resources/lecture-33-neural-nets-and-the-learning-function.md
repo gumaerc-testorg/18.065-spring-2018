@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 33  \nFrom textbook Section VII.1**\n\n5\\\
@@ -52,6 +53,4 @@ Distance matrix given between points: Find the points!
 Related sections in textbook: VII.1 and IV.10
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

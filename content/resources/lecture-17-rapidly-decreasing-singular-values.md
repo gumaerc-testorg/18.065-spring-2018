@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 17  \nFrom textbook Section III.3**\n\n2\\\
@@ -47,6 +48,4 @@ Flags give many examples / diagonal lines give high rank.
 Related section in textbook: III.3
 
 **Instructor:** Prof. Alex Townsend
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 27  \nFrom textbook Section VII.2**\n\n2\\\
@@ -45,6 +46,4 @@ The key step to optimizing weights is backprop + stoch grad descent.
 Related section in textbook: VII.3
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

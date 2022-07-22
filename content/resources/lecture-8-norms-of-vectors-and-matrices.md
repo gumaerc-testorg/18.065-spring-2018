@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 8  \nFrom textbook Section I.11**\n\n1\\. Show\
@@ -49,6 +50,4 @@ Orthogonal matrices have \\(\\Vert Q \\Vert\_2 = 1\\) and \\(\\Vert Q \\Vert^2\_
 Related section in textbook: I.11
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

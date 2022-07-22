@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problem for Lecture 35  \nFrom textbook Sections IV.6-IV.7**\n\n\
@@ -42,6 +43,4 @@ Two ways to separate graph nodes into clusters
 Related sections in textbook: IV.6–IV.7
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

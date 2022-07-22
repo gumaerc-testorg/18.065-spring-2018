@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 14  \nFrom textbook Section III.1**\n\n1\\\
@@ -60,6 +61,4 @@ Note: Formula in class is correct in the textbook.
 Related section in textbook: III.1
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 15  \nFrom textbook Sections III.1 - III.2**\n\
@@ -53,6 +54,4 @@ Eigenvalues from adding rank-one matrix are interlaced.
 Related section in textbook: III.1-2
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

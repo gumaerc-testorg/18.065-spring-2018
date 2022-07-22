@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 11  \nFrom textbook Section I.11**\n\n6\\.\
@@ -55,6 +56,4 @@ Orthogonal vectors in \\(Q\\) from independent vectors in \\(A\\)
 Related section in textbook: I.11
 
 **Instructor:** Prof. Gilbert Strang
-
-
 

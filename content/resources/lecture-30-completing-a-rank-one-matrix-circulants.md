@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Problem Set
 optional_text: "**Problems for Lecture 30  \nFrom textbook Section IV.8**\n\n3\\.\
@@ -47,6 +48,4 @@ Start of Fourier analysis for vectors
 Related section in textbook: IV.8 and IV.2
 
 **Instructor:** Prof. Gilbert Strang
-
-
 
