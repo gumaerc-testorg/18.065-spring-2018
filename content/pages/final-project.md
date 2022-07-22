@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section describes the final project.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Final Project
 uid: aed242e0-35e0-aa36-2885-fec57af9db91
 ---
