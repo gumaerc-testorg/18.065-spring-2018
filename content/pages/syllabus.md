@@ -33,9 +33,9 @@ Linear algebra concepts are key for understanding and creating machine learning 
 Textbook
 --------
 
-Strang, Gilbert. _Linear Algebra and Learning from Data_. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2019. ISBN: 9780692196380.
+Strang, Gilbert. _Linear Algebra and Learning from Data_. {{% resource_link "4044a4b6-ea04-4d06-a551-61d3f2db6bff" "Wellesley-Cambridge Press" %}}, 2019. ISBN: 9780692196380.
 
-Professor Strang created [a website for the book](http://math.mit.edu/~gs/learningfromdata/), including a link to the [Table of Contents (PDF)](http://math.mit.edu/~gs/learningfromdata/dsla_toc.pdf), sample chapters, and essays on [Deep Learning (PDF)](http://math.mit.edu/%7Egs/learningfromdata/SIAM03.pdf) and [Neural Nets (PDF)](http://math.mit.edu/%7Egs/learningfromdata/dsla_dlnn.pdf).
+Professor Strang created {{% resource_link "ba0be02a-c6c4-46d7-9d44-b115a87fcd21" "a website for the book" %}}, including a link to the {{% resource_link "5b2e24e3-ecaf-4e14-8aab-491bda823e3a" "Table of Contents (PDF)" %}}, sample chapters, and essays on {{% resource_link "b17822c4-dce2-45e6-9cfc-20e645a5ab96" "Deep Learning (PDF)" %}} and {{% resource_link "8892d660-c31b-4eab-a689-cd4299960974" "Neural Nets (PDF)" %}}.
 
 Requirements and Grading
 ------------------------
