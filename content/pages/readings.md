@@ -8,9 +8,9 @@ title: Readings
 uid: daef5f63-da5b-36f5-ee6b-f28e71eb7656
 ---
 
-Reading assignments are all in the textbook: Strang, Gilbert. _[Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/)_. Wellesley-Cambridge Press, 2018. ISBN: 9780692196380.
+Reading assignments are all in the textbook: Strang, Gilbert. _{{% resource_link "ba0be02a-c6c4-46d7-9d44-b115a87fcd21" "Linear Algebra and Learning from Data" %}}_. Wellesley-Cambridge Press, 2018. ISBN: 9780692196380.
 
-Professor Strang created [a website for the book](http://math.mit.edu/~gs/learningfromdata/), including a link to the [Table of Contents (PDF)](http://math.mit.edu/%7Egs/learningfromdata/dsla_toc.pdf) and sample chapters.
+Professor Strang created {{% resource_link "ba0be02a-c6c4-46d7-9d44-b115a87fcd21" "a website for the book" %}}, including a link to the {{% resource_link "abf035e2-69a4-4259-b58d-a73274ea9080" "Table of Contents (PDF)" %}} and sample chapters.
 
 {{< tableopen >}}
 {{< theadopen >}}
