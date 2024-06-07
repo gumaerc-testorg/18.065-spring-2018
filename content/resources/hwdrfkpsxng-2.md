@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/bce815326359585daa637823cd6e6a46_hwDRfkPSXng.vtt
+file_size: 44428
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
