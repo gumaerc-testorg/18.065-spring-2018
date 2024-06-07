@@ -28,7 +28,7 @@ In the following video and Chalk Radio podcast episode, Professor Gilbert Strang
 
 ### Requirements Satisfied
 
-18.065 can be applied toward a {{% resource_link "ba2105b1-e1d7-4054-a378-571bcb40fc4b" "Bachelor of Science in Mathematics" %}}, but is not required.
+18.065 can be applied toward a [Bachelor of Science in Mathematics](http://math.mit.edu/academics/undergrad/major/index.php), but is not required.
 
 ### Offered
 
