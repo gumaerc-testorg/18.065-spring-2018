@@ -18,14 +18,13 @@ optional_text: "**Problems for Lecture 26  \nFrom textbook Section VII.1**\n\n4\
   (F\\_2(x,y)\\\\) is CPL.  \n\\\\(\\\\boldsymbol{C} \\\\hspace{6pt}\\\\) If the one-variable\
   \ functions \\\\(y=F\\_1(x)\\\\) and \\\\(z=F\\_2(y)\\\\) are CPL, so is the  \n\
   \\\\(\\\\hspace{16pt}\\\\)composition \\\\(C(x)=z=(F\\_2(F\\_1(x))\\\\)\n\n**Problem\
-  \ 7 uses the blue ball, orange ring example on {{% resource_link \"e6c022d9-094d-4484-9dcf-2d7e6267ef54\"\
-  \ \"playground.tensorflow.org\" %}} with one hidden layer and activation by ReLU\
-  \ (not Tanh). When learning succeeds, a white polygon separates blue from orange\
-  \ in the figure that follows.**\n\n7\\. Does learning succeed for \\\\(N=4\\\\)?\
-  \ What is the count \\\\(r(N, 2)\\\\) of flat pieces in \\\\(F(\\\\boldsymbol{x})\\\
-  \\)? The white polygon shows where flat pieces in the graph of \\\\(F(\\\\boldsymbol{x})\\\
-  \\) change sign as they go through the base plane \\\\(z=0\\\\). How many sides\
-  \ in the polygon?"
+  \ 7 uses the blue ball, orange ring example on [playground.tensorflow.org](http://playground.tensorflow.org)\
+  \ with one hidden layer and activation by ReLU (not Tanh). When learning succeeds,\
+  \ a white polygon separates blue from orange in the figure that follows.**\n\n7\\\
+  . Does learning succeed for \\\\(N=4\\\\)? What is the count \\\\(r(N, 2)\\\\) of\
+  \ flat pieces in \\\\(F(\\\\boldsymbol{x})\\\\)? The white polygon shows where flat\
+  \ pieces in the graph of \\\\(F(\\\\boldsymbol{x})\\\\) change sign as they go through\
+  \ the base plane \\\\(z=0\\\\). How many sides in the polygon?"
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
