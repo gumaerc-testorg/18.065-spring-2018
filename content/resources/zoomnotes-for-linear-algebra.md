@@ -1,0 +1,33 @@
+---
+content_type: resource
+description: ''
+draft: false
+file: /ol-ocw-studio-app/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/b66b4601b216993e72b862fc0243281d_MIT18_065S18_ZoomNotes.pdf
+file_size: 655554
+file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
+parent_uid: baf6dc02-8cee-4e02-d25e-831b74c3d5a9
+resourcetype: Document
+title: ZoomNotes for Linear Algebra
+uid: b66b4601-b216-993e-72b8-62fc0243281d
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  source: ''
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
+---

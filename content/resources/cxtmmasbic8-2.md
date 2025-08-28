@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/e9b3b1c6bdad584b9a972c72068c0e09_cxTmmasBiC8.vtt
+file: /ol-ocw-studio-app/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/e9b3b1c6bdad584b9a972c72068c0e09_cxTmmasBiC8.vtt
 file_size: 35496
 file_type: application/x-subrip
 learning_resource_types: []
