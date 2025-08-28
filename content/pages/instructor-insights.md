@@ -14,17 +14,15 @@ uid: 07a3d3ea-a91f-17c3-4182-eb7fdf14e25d
 
 ## Instructor Insights
 
-In the following video and Chalk Radio podcast episode, Professor Gilbert Strang describes various aspects of how he taught _18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_.
+In the following video and Chalk Radio podcast episode, Professor Gilbert Strang describes various aspects of how he taught *18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning*.
 
-{{< resource eb3049b4-868a-fd99-8221-5f1dc9da655b >}}
-
-{{< simplecast 913a4a55-b8e2-407d-b4cb-c26214d80d7f >}}
+{{< resource uuid="93e7e065-24d2-4ad8-8acd-a9ee34f5f084" >}}
 
 ## Curriculum Information
 
 ### Prerequisites
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011)
+[*18.06 Linear Algebra*](https://ocw-studio.odl.mit.edu/courses/18-06sc-linear-algebra-fall-2011)
 
 ### Requirements Satisfied
 
