@@ -35,6 +35,8 @@
     "website": "18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018"
   },
   "course_title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization\u2013and above all a full explanation of deep learning.\n",
   "department_numbers": [
     "18"
@@ -48,9 +50,11 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Podcasts"
   ],
   "site_uid": "448b8c9a-8826-467d-86ef-15c50bdc4c84",
   "site_short_id": "18.065-spring-2018",
+  "site_url_path": "courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018",
   "title": "Course Metadata"
 }
