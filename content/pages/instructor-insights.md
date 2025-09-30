@@ -22,11 +22,11 @@ In the following video and Chalk Radio podcast episode, Professor Gilbert Strang
 
 ### Prerequisites
 
-[*18.06 Linear Algebra*](https://ocw-studio.odl.mit.edu/courses/18-06sc-linear-algebra-fall-2011)
+{{% resource_link "8c9c8f16-8721-4f88-9dec-ccffa8ba8e26" "*18.06 Linear Algebra*" %}}
 
 ### Requirements Satisfied
 
-18.065 can be applied toward a [Bachelor of Science in Mathematics](http://math.mit.edu/academics/undergrad/major/index.php), but is not required.
+18.065 can be applied toward a {{% resource_link "6d474a4a-f5e4-47d3-906c-0dca48f406b9" "Bachelor of Science in Mathematics" %}}, but is not required.
 
 ### Offered
 
